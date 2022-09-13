@@ -1,5 +1,3 @@
-import 'package:get/get_connect/http/src/utils/utils.dart';
-
 class NoteFields {
   static const String id = "id";
   static const String isImportant = "isImportant";
